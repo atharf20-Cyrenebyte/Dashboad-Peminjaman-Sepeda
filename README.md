@@ -1,2 +1,11 @@
-# Dashboad-Peminjaman-Sepeda
-Projek membuat dashboard (data scientist) untuk peminjaman sepeda
+# Latihan-Dashboard ✨
+
+## Setup Environment - Shell/Terminal
+```
+pip install -r requirements.txt
+```
+
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
